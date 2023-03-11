@@ -181,7 +181,7 @@ def psa_bypasser(psa_url):
 ##################################################################################################################
  
 
-url = "https://link.tnlink.in/TS95D7"  #@param {type:"string"}
+#url = "https://link.tnlink.in/TS95D7"  #@param {type:"string"}
 
 
 def tnlink(url):
